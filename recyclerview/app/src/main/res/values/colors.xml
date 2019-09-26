@@ -3,4 +3,21 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+
+
+    <array name="clor_ring">
+        <item>#FFE500</item>
+        <item>#FFE000</item>
+        <item>#FFD800</item>
+        <item>#FFCE00</item>
+        <item>#FFC300</item>
+        <item>#FFB700</item>
+        <item>#FFAC00</item>
+        <item>#FFA100</item>
+        <item>#FFA100</item>
+        <item>#FFA100</item>
+        <item>#FFA100</item>
+    </array>
+
 </resources>
